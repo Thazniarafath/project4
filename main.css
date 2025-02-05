@@ -1,0 +1,106 @@
+.sec1{
+    text-align: center;
+    background-image: url(book2.jpg);
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+*{
+    margin: 0%;
+}
+.sec2{
+    padding-top: 30px;
+}
+a.a{
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+    display: inline-block;
+}
+.bi1{
+    font-size: 25px;
+    display: inline-block;
+    padding-top: 60px;
+}
+.play{
+    font-size: 20px;
+}
+strong.ch, strong.saf{
+    color: orangered;
+}
+.inbox4{
+    display: inline-block;
+    padding: 50px;
+}
+.sec4{
+    padding-top: 200px;
+}
+.inbox5{
+    text-decoration: none;
+}
+span.org{
+    color: orangered;
+}
+.sec5{
+    text-align: center;
+    padding: 30px;
+}
+
+.hr{
+    width: 80px;
+    height: 2px;
+    background-color: rgb(175, 183, 181);
+    margin: auto;
+   
+}
+.hr2{
+    width: 45px;
+    height: 2px;
+    background-color: rgb(175, 183, 181);
+    margin: auto;
+  
+}
+
+.p{
+    border-style:solid;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-color: gray;
+}
+
+.sec6{
+    text-align: center;
+    padding: 30px;
+}
+.orgg{
+    font-size:x-large;
+    color: orangered;
+}
+button.bt2{
+    background-color: orangered;
+    color: aliceblue;
+    
+}
+.sec7{
+    text-align: center;
+}
+.sec8{
+    text-align: center;
+    padding: 30px;
+}
+span.LS{
+    color: gray;
+}
+p.p5{
+    font-size: x-large;
+}
+img.mobb{
+    height:750px;
+}
+@media(max-width:390px){
+    img.mobb{
+        height: auto;
+        width: 100%;
+    }
+
+}
